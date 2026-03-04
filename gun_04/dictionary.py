@@ -9,7 +9,7 @@ print(type(fitness_list))
 #print(fitness_list[0]) dersek error verir
 
 print(fitness_list["banana"])
-print(fitness_list["apple"])
+
 #bu şekilde kullanmak daha sağlıklı
 
 #.keys() anahtarları verir
