@@ -52,4 +52,4 @@ for number in my_list:
     print(number)
     if number == 40:
         continue
-        print("yes")      
+        print("yes")
