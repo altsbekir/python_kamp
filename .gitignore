@@ -211,3 +211,6 @@ __marimo__/
 
 #idea
 .idea/
+
+# vs code
+.vscode/
